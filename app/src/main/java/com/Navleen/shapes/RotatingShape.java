@@ -108,6 +108,7 @@ public class RotatingShape extends AppCompatActivity {
                                 }));
                             }
 
+
                             public void onEventError(Exception e) {
                                 Log.e(TAG, "Event error: ", e);
                             }
